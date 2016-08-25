@@ -3,7 +3,7 @@
 
 int main()
 {
-  int number = 3;
+  int number = 5;
   
   print_hello();
 
